@@ -81,3 +81,6 @@ py-lint: pre-commit
 
 js-format:
 	cd superset-frontend; npm run prettier
+
+ssh:
+	/.ssh
